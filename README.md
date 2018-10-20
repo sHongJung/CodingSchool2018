@@ -3,6 +3,9 @@
 ## Software Programming with hamster robot
 #### October 2018
                    
+## @Hacker Dojo
+## Wifi : HD-Events
+## PW : 19hxrv
 -----------------------------------------
 
 ## Installation Tools
