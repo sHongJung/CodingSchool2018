@@ -65,9 +65,9 @@ https://drive.google.com/open?id=1PWfTOOcipJ3WhhYJFxIIsnSk05pYLx38
 ## Execute the Robot Coding
 
 ### Windows
-## C:\RobotCoding\RobotCoding.cmd
+#### C:\RobotCoding\RobotCoding.cmd
 
 ### Mac OS
-## /Applications/RobotCoding.app
+#### /Applications/RobotCoding.app
 
 -----------------------------------------
