@@ -46,7 +46,7 @@ https://drive.google.com/open?id=1PWfTOOcipJ3WhhYJFxIIsnSk05pYLx38
 
 -----------------------------------------
 
-## Recharging Between Laptop and Hamster Robot
+## Recharging the Hamster Robot
 ### Connect USB cable to the Robot and your Laptop.
 ![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/Recharging.JPG)
 
