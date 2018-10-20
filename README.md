@@ -1,8 +1,9 @@
 -----------------------------------------
 # Bay Area K-Group Coding School
+## Software Programming with hamster robot
 #### October 2018
                    
 -----------------------------------------
-## Software Programming with hamster robot
+## Installation Tools
                              
                              
