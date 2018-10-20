@@ -27,8 +27,19 @@ https://drive.google.com/open?id=1PWfTOOcipJ3WhhYJFxIIsnSk05pYLx38
 1) Connect your USB dongle to USB Port. Blinking blue light is normal.
 ![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/Dongle.JPG)
 
+
+
+
 2) Turn on power of your hamster robot.
+
+
 ![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/HamsterRobot.JPG)
+
+
+
+
+
+
 
 3) Keep the robot close to the Bluetooth dongle (Within 15 cm). Blue light after 'beep' sound is normal state.
 ![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/Pairing.JPG)
@@ -42,7 +53,7 @@ Connect USB cable to the Robot and your Laptop.
 
 
 Give some foods to your Hamster!
-![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/RobotCoding.JPG)
+![alt text](https://github.com/sHongJung/CodingSchool2018/blob/master/img/EatingHamster.JPG)
 
 -----------------------------------------
 
