@@ -1,1 +1,3 @@
-# CodingSchool2018
+## CodingSchool2018
+
+# Software Programming with hamster robot
